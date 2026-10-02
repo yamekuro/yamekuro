@@ -14,8 +14,8 @@ A segmented SOC lab on a single workstation: an OPNsense firewall between six zo
 
 | Phase | Scope | Status |
 |---|---|---|
-| P0 | Foundation: hypervisor, firewall, zones, bastion | 🔄 In progress |
-| P1 | Telemetry: Wazuh, Windows and Linux endpoints | Planned |
+| P0 | Foundation: hypervisor, firewall, zones, bastion | ✅ Complete · [write-up](https://github.com/yamekuro/soc-homelab/blob/main/writeups/p0-foundation.md) |
+| P1 | Telemetry: Wazuh, Windows and Linux endpoints | 🔜 Next |
 | P2 | First SOC case: detection, phishing, vulnerability scan, report | Planned |
 | P3 | Identity and platforms: AD, Entra, Sentinel, Splunk | Planned |
 | P4 | Network, hunting and automated response | Planned |
